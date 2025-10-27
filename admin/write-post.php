@@ -166,7 +166,6 @@ include 'FreshUi.php';
 </form>
 
 <?php
-include 'copyright.php';
 include 'common-js.php';
 include 'form-js.php';
 include 'write-js.php';

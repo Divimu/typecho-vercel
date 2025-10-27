@@ -141,7 +141,6 @@ $attachments = \Widget\Contents\Attachment\Admin::alloc();
 </div>
 
 <?php
-include 'copyright.php';
 include 'common-js.php';
 include 'table-js.php';
 include 'footer.php';

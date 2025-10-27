@@ -255,7 +255,6 @@ $isAllPosts = ('on' == $request->get('__typecho_all_posts') || 'on' == \Typecho\
 </div>
 
 <?php
-include 'copyright.php';
 include 'common-js.php';
 include 'table-js.php';
 include 'footer.php';

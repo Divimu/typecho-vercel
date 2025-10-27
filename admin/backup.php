@@ -85,7 +85,6 @@ $backupFiles = \Widget\Backup::alloc()->listFiles();
 </div>
 </div>
 <?php
-include 'copyright.php';
 include 'common-js.php';
 ?>
 <script>

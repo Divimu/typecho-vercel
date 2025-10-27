@@ -189,7 +189,6 @@ $stat = Typecho_Widget::widget('Widget_Stat');
   </div>
 </div>
 <?php
-include 'copyright.php';
 include 'common-js.php';
 include 'footer.php';
 ?>

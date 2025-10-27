@@ -33,7 +33,6 @@ include 'FreshUi.php';
 
 
 <?php
-include 'copyright.php';
 include 'common-js.php';
 include 'footer.php';
 ?>

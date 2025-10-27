@@ -122,7 +122,6 @@ include 'FreshUi.php';
 
 
 <?php
-include 'copyright.php';
 include 'common-js.php';
 ?>
 

@@ -57,7 +57,6 @@ $stat = \Widget\Stat::alloc();
 </div>
 </div>
 <?php
-include 'copyright.php';
 include 'common-js.php';
 include 'form-js.php';
 \Typecho\Plugin::factory('admin/profile.php')->bottom();

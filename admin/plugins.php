@@ -132,7 +132,6 @@ include 'FreshUi.php';
 </div>
 
 <?php
-include 'copyright.php';
 include 'common-js.php';
 include 'footer.php';
 ?>

@@ -49,7 +49,6 @@ Typecho_Widget::widget('Widget_Contents_Attachment_Edit')->to($attachment);
 	</div>
 </div>
 <?php
-include 'copyright.php';
 include 'common-js.php';
 ?>
 <script src="<?php $options->adminStaticUrl('js', 'moxie.js?v=' . $suffixVersion); ?>"></script>

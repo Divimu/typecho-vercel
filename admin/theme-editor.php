@@ -62,7 +62,6 @@ include 'FreshUi.php';
 </div>
 
 <?php
-include 'copyright.php';
 include 'common-js.php';
 \Typecho\Plugin::factory('admin/theme-editor.php')->bottom($files);
 include 'footer.php';
